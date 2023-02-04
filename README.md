@@ -1,5 +1,5 @@
 # Hi there 👋, I am Mizanur Hasan Khan
-![](https://media-exp1.licdn.com/dms/image/D5616AQG8CCjjx8YZtA/profile-displaybackgroundimage-shrink_350_1400/0/1670496049147?e=1675900800&v=beta&t=oigKFm-mZ6_QXW_-ny_1W59_CwZQ40064Sc9gIyvqOQ](https://github.com/mizanurhasan0/react-Old/blob/7beb957f4236f99908d9dd7c4d68a75c1b9dea32/Complete%20Design%20based%20E-commerce%20Aplication/client_view/src/Mizanur%20Hasan%20Khan.png)
+![](https://github.com/mizanurhasan0/react-Old/blob/7beb957f4236f99908d9dd7c4d68a75c1b9dea32/Complete%20Design%20based%20E-commerce%20Aplication/client_view/src/Mizanur%20Hasan%20Khan.png)
 
 I am a full stack developer (MERN).I completed my bachelor of software engineering degree (2014-2018) from Daffodil International University(DIU), Dhaka-1216.I am passionate in web development. I am a quick learner.I like to learn new skills. I have  experience with HTML, CSS, JavaScript, ReactJS,Node js, Mongoose, ExpressJS, Tailwind, DaisyUI , MaterialUI.I completed some projects with these technologies .
 
